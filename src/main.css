@@ -1,0 +1,13 @@
+.customContainer {
+    padding-top: 20px;
+}
+
+.mainForm {
+    background-color: #f3f9fe;
+    padding: 10px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
